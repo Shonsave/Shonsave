@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shonsave
-- 👀 I’m interested in learning new things. 
-- 🌱 I’m currently giving a shot at multiple programming languages and am looking to learn new things. 
-- 💞️ I’m looking to collaborate. 
-- 📫 How to reach me : Follow me on Github or email me at shaunaksave@gmail.com
+- 👀 I’m currently pursuing my B.Tech in Electronics and Communication Engineering. 
+- 🌱 I like to do projects in Robotics, but am open to working on projects in other domains as well. 
+- 💞️ I’m looking to collaborate on projects and learn new things. 
+- 📫 How to reach me: Follow me on Github or email me at shaunaksave@gmail.com
 
 <!---
 Shonsave/Shonsave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
